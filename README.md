@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **css** skills on [css-stuff](https://github.com/galobponce/css-stuff).
+- 🌱 I’m currently mastering my **CSS** skills on [css-stuff](https://github.com/galobponce/css-stuff).
 
 - 📫 How to reach me **gbbelloponce@gmail.com**.
 
