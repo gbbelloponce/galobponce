@@ -1,8 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🔭 I’m currently working on [exclu](https://github.com/galobponce/exclu-client).
-
-- 🌱 I’m currently learning **React Native**.
+- 🌱 I’m currently mastering my **css** skills on [css-stuff](https://github.com/galobponce/css-stuff).
 
 - 📫 How to reach me **gbbelloponce@gmail.com**.
 
