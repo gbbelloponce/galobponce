@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **JS** skills on [rock-paper-scissors](https://github.com/galobponce/rock-paper-scissors).
+- 🌱 I’m currently mastering my **JS** skills on [etch-a-sketch](https://github.com/galobponce/etch-a-sketch).
 
 - 📫 How to reach me **gbbelloponce@gmail.com**.
 
