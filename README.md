@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **JS** skills on [etch-a-sketch](https://github.com/galobponce/etch-a-sketch).
+- 🌱 I’m currently mastering my **JS** skills on [simple-calculator](https://github.com/galobponce/simple-calculator).
 
 - 📫 How to reach me **gbbelloponce@gmail.com**.
 
@@ -10,7 +10,4 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
   &nbsp;
-  <a href="https://github.com/galobponce" target="blank">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
 </p>
