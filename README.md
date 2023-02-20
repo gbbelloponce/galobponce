@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **JS** skills on [simple-calculator](https://github.com/galobponce/simple-calculator).
+- 🌱 I’m currently mastering my **JS** skills on [library](https://github.com/galobponce/library).
 
 - 📫 How to reach me **gbbelloponce@gmail.com**.
 
