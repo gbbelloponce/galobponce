@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **JS** skills on [library](https://github.com/galobponce/library).
+- 🌱 I’m currently mastering my **React Native** and **Node** with **TS** skills on both [spop-client](https://github.com/galobponce/spop-client) and [spop-server](https://github.com/galobponce/spop-sever).
 
-- 📫 How to reach me **gbbelloponce@gmail.com**.
+- 📫 How to reach me: **gbbelloponce@gmail.com**.
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
