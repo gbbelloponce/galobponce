@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **React Native** and **TS** skills on [spop](https://github.com/galobponce/spop).
+- 🌱 I’m currently mastering my **JS** and **VDOM** skills on [gvdom](https://github.com/galobponce/gvdom).
 
 - 📫 How to reach me: **gbbelloponce@gmail.com**.
 
