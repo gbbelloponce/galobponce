@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a passionate software developer from Argentina.
 
-- 🌱 I’m currently mastering my **JS** and **VDOM** skills on [restaurant-page](https://github.com/galobponce/restaurant-page) and [gvdom](https://github.com/galobponce/gvdom).
+- 🌱 I’m currently mastering my **JS** and **VDOM** skills on [restaurant-page](https://github.com/galobponce/restaurant-page), [gvdom](https://github.com/galobponce/gvdom) and [create-gvdom-app](https://github.com/galobponce/create-gvdom-app).
 
 - 📫 How to reach me: **gbbelloponce@gmail.com**.
 
