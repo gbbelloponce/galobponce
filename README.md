@@ -1,6 +1,6 @@
-### Hi 👋 I'm Galo, a passionate software developer from Argentina.
+### Hi 👋 I'm Galo, a passionate software engineer from Argentina.
 
-- 🌱 I’m currently mastering my **JS** skills on [restaurant-page](https://github.com/galobponce/restaurant-page).
+- 🌱 I’m currently mastering my **JS** skills.
 
 - 📫 How to reach me: **gbbelloponce@gmail.com**.
 
