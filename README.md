@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a software engineer from Argentina.
 
-- 🌱 Currently mastering my skills on [Link Share](https://github.com/gbbelloponce/link-share)
+- 🌱 Currently mastering my skills on [Exclu](https://github.com/gbbelloponce/exclu-api)
 
 - 📫 How to reach me: **gbbelloponce@gmail.com**.
 
