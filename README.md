@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Galo, a software engineer from Argentina.
 
-- 🌱 Currently mastering my skills on Exclu ([web](https://github.com/gbbelloponce/exclu-web) and [api](https://github.com/gbbelloponce/exclu-api))
+- 🌱 Currently building [Kanbanify](https://github.com/gbbelloponce/kanbanify).
 
 - 📫 How to reach me: **gbbelloponce@gmail.com**.
 
