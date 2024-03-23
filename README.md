@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Galo, a software engineer from Argentina.
 
-- 🌱 Currently building [Kanbanify](https://github.com/gbbelloponce/kanbanify).
-
 - 📫 How to reach me: **gbbelloponce@gmail.com**.
 
 <h3 align="left">My Socials:</h3>
