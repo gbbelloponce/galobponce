@@ -5,7 +5,7 @@
 <h3 align="left">My Socials:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/galo-benjamin-bello-ponce-1957a620b/" target="blank">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
   &nbsp;
 </p>
